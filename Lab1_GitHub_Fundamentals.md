@@ -94,6 +94,6 @@ Open both files in [vscode.dev](https://vscode.dev/github/YOUR-USERNAME/iris-cla
 
 ## What's next
 
-This fork-and-run workflow — notebook → tests → modules — is the shape of every project you'll build this semester. As the tool stack grows (Git branching, Docker, GitHub Actions, Postman), we'll build out a more capable version of this "browser IDE" together, chapter by chapter, rather than dropping it on you all at once.
+This fork-and-run workflow — notebook → tests → modules — is the shape of many projects you'll build this semester for this class. As the tool stack grows (Git branching, Docker, GitHub Actions, Postman), we'll build out a more capable version of this "browser IDE" together, chapter by chapter, rather than dropping it on you all at once.
 
 For now: keep your fork. You'll be extending it.
