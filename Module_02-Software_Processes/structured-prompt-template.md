@@ -7,7 +7,7 @@ This template will be reused and adapted throughout the semester. Different assi
 ---
 
 ## [Prompt Name / Assignment Reference]
-*e.g., "Week 3 — Add confidence-threshold rejection to iris-classifier predict.py"*
+*e.g., "Add confidence-threshold rejection to iris-classifier predict.py"*
 
 ### 1. Role
 *Who/what standard should the AI operate as? This sets the quality bar and mindset.*
