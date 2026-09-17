@@ -1,6 +1,6 @@
 # Why We're Doing This
 
-*A plain-language refresher on what we're building this semester and why. Re-read it any week you're not sure what the point is. That's what it's for.*
+*A review on what we're building this semester and why.*
 
 ---
 
